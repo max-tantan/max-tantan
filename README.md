@@ -20,7 +20,8 @@ aka **The Copy Boy** — I turn clarity into code and pixels into experiences.
 - 🛒 **AlienStore** — Developing an e-commerce website with integrated admin dashboard  
 - 🏥 **HealthVerse UI/UX** — Designing a modern healthcare interface with strong user flow & visual clarity  
 - 💳 **POS System** — Creating a simple point of sale system focused on usability and efficiency  
-- 🖌️ **UI/UX Case Studies** — Exploring user flows, wireframes, and visual decisions   
+- 🖌️ **UI/UX Case Studies** — Exploring user flows, wireframes, and visual decisions
+- 📚 **StudNow (Ongoing)** — Leading the team and designing the UI/UX for a comprehensive learning platform featuring groups, chat, and profiles
   
 
 <div align="center">
