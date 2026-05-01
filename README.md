@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=3500&pause=1000&color=F9DC5C&center=true&vCenter=true&width=600&lines=✨+Designer+dengan+skill+B+aja" alt="Pixel Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=3500&pause=1000&color=F9DC5C&center=true&vCenter=true&width=600&lines=✨+Frontend+dan+UI/UX+Holic" alt="Pixel Typing SVG" />
 </p>
 
 
