@@ -22,7 +22,7 @@ aka **The Copy Boy** — I turn clarity into code and pixels into experiences.
 - 💳 **POS System** — Creating a simple point of sale system focused on usability and efficiency  
 - 🖌️ **UI/UX Case Studies** — Exploring user flows, wireframes, and visual decisions  
 - 📚 **StudNow** — Comprehensive learning platform featuring groups, chat, and profiles  
-- 🤖 **Nexxa AI (Ongoing)** — Designing and developing an AI platform tailored specifically for schools  
+- 🤖 **Nexxa AI (kalah cok gjadi publish)** — Designing and developing an AI platform tailored specifically for schools  
 - 🎣 **Fisherman** — An ocean-themed anonymous community forum website  
 - 🎵 **MusSync** — A music rating and discovery app (like Letterboxd, but for music)
   
